@@ -30,3 +30,5 @@ o	Transformación y manipulación de datos en diferentes formatos.
 o	Configuración de entornos de desarrollo integrados (IDEs).
 o	Control de versiones con Git.
 o	Uso de herramientas para la depuración y pruebas
+Metodología 
+El curso se desarrolla mediante clases teóricas y prácticas, con proyectos intermodulares
